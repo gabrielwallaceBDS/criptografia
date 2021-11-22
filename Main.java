@@ -133,7 +133,7 @@ public class EncriptaDecriptaRSA {
         geraChave();
       }
 
-      final String msgOriginal = "Exemplo de mensagem";
+      final String msgOriginal = "isso aqui vai ser criptografado haha";
       ObjectInputStream inputStream = null;
 
       // Criptografa a Mensagem usando a Chave Pública
